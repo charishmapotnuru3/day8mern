@@ -1,0 +1,10 @@
+  *what is time complexity?
+-->Time complexity is defined as the amount of time taken by an algorithm to run, as a function of the length of the input. It measures the time taken to execute each statement of code in an algorithm.
+
+  *what are the types of time complexity?
+-->There are five types of Time complexity Cases:
+   1.Constant Time Complexity - O(1)
+   2.Logarithmic Time Complexity - O(log n)
+   3.Linear Time Complexity - O(n)
+   4.O(n log n) Time Complexity.
+   5.Quadratic Time Complexity - O(n2)
